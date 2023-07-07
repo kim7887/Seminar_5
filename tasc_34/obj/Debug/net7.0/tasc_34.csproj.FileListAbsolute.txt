@@ -1,0 +1,15 @@
+C:\Users\12345\Desktop\Seminar5_дз\tasc_34\obj\Debug\net7.0\tasc_34.csproj.AssemblyReference.cache
+C:\Users\12345\Desktop\Seminar5_дз\tasc_34\obj\Debug\net7.0\tasc_34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12345\Desktop\Seminar5_дз\tasc_34\obj\Debug\net7.0\tasc_34.AssemblyInfoInputs.cache
+C:\Users\12345\Desktop\Seminar5_дз\tasc_34\obj\Debug\net7.0\tasc_34.AssemblyInfo.cs
+C:\Users\12345\Desktop\Seminar5_дз\tasc_34\obj\Debug\net7.0\tasc_34.csproj.CoreCompileInputs.cache
+C:\Users\12345\Desktop\Seminar5_дз\tasc_34\bin\Debug\net7.0\tasc_34.exe
+C:\Users\12345\Desktop\Seminar5_дз\tasc_34\bin\Debug\net7.0\tasc_34.deps.json
+C:\Users\12345\Desktop\Seminar5_дз\tasc_34\bin\Debug\net7.0\tasc_34.runtimeconfig.json
+C:\Users\12345\Desktop\Seminar5_дз\tasc_34\bin\Debug\net7.0\tasc_34.dll
+C:\Users\12345\Desktop\Seminar5_дз\tasc_34\bin\Debug\net7.0\tasc_34.pdb
+C:\Users\12345\Desktop\Seminar5_дз\tasc_34\obj\Debug\net7.0\tasc_34.dll
+C:\Users\12345\Desktop\Seminar5_дз\tasc_34\obj\Debug\net7.0\refint\tasc_34.dll
+C:\Users\12345\Desktop\Seminar5_дз\tasc_34\obj\Debug\net7.0\tasc_34.pdb
+C:\Users\12345\Desktop\Seminar5_дз\tasc_34\obj\Debug\net7.0\tasc_34.genruntimeconfig.cache
+C:\Users\12345\Desktop\Seminar5_дз\tasc_34\obj\Debug\net7.0\ref\tasc_34.dll
